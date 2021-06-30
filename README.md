@@ -6,3 +6,7 @@
 #jquery fundamental https://www.malasngoding.com/pengertian-dan-cara-menggunakan-jquery/
 #ajax jquery https://www.tutorialspoint.com/jquery/jquery-ajax.htm
 #wahyutaqdirulaziz0207
+
+
+
+absensi online https://drive.google.com/file/d/12-03U-R2-SWfpPemuToFAkHXCPWvyKUK/view

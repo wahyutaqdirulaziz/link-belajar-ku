@@ -10,5 +10,8 @@
 
 
 absensi online https://drive.google.com/file/d/12-03U-R2-SWfpPemuToFAkHXCPWvyKUK/view
+flutter auth https://adhiskara.medium.com/membuat-login-flutter-dengan-api-laravel-flutter-authentication-with-laravel-2c7f0fef66dc
+auth laravel api jwt https://adhiskara.medium.com/membuat-api-otentikasi-laravel-laravel-rest-api-authentication-with-passport-f507faca3bd9
+auth laravel 8 jwt https://www.positronx.io/laravel-jwt-authentication-tutorial-user-login-signup-api/
 
 wahyudipe6@0207

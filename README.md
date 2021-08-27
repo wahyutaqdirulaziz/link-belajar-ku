@@ -14,4 +14,6 @@ flutter auth https://adhiskara.medium.com/membuat-login-flutter-dengan-api-larav
 auth laravel api jwt https://adhiskara.medium.com/membuat-api-otentikasi-laravel-laravel-rest-api-authentication-with-passport-f507faca3bd9
 auth laravel 8 jwt https://www.positronx.io/laravel-jwt-authentication-tutorial-user-login-signup-api/
 
+github basic https://rogerdudler.github.io/git-guide/
+
 wahyudipe6@0207
